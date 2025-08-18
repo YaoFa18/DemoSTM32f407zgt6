@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/build/Debug/cmake_install.cmake",
+		"D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
