@@ -75,23 +75,23 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/cmake/stm32cubemx/../../Core/Inc"
+					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/cmake/stm32cubemx/../../Core/Inc"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
+					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "C",
@@ -139,23 +139,23 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/cmake/stm32cubemx/../../Core/Inc"
+					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/cmake/stm32cubemx/../../Core/Inc"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc"
+					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
+					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include"
+					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include"
 				},
 				{
 					"backtrace" : 3,
-					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
+					"path" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/cmake/stm32cubemx/../../Drivers/CMSIS/Include"
 				}
 			],
 			"language" : "ASM",
@@ -182,7 +182,7 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "-mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -T \"D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/STM32F407XX_FLASH.ld\" --specs=nano.specs -Wl,-Map=Demo00.map -Wl,--gc-sections -Wl,--print-memory-usage",
+				"fragment" : "-mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -T \"D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/STM32F407XX_FLASH.ld\" --specs=nano.specs -Wl,-Map=Demo00.map -Wl,--gc-sections -Wl,--print-memory-usage",
 				"role" : "flags"
 			},
 			{
