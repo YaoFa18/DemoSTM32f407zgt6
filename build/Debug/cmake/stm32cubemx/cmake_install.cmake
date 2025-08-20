@@ -1,4 +1,4 @@
-# Install script for directory: D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/cmake/stm32cubemx
+# Install script for directory: D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,6 +40,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/build/Debug/cmake/stm32cubemx/install_local_manifest.txt"
+  file(WRITE "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/build/Debug/cmake/stm32cubemx/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

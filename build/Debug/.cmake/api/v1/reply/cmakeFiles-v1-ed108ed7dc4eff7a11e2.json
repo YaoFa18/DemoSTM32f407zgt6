@@ -1321,8 +1321,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00/build/Debug",
-		"source" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/Demo00"
+		"build" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6/build/Debug",
+		"source" : "D:/ruanjian/STM32ProgramFile/STM32CubeMx/LestFolder/Useing/DemoGitHub/DemoSTM32f407zgt6"
 	},
 	"version" : 
 	{
